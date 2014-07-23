@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+.header{
+background-color: #428bca;
+height: 54px;
+min-width: 980px;
+border-radius: 5px;
+}
+.name{
+font-family: verdana;
+font-size:40px;
+text-align:center;
+size: 8; 
+color: 333333; 
+
+}
+.button
+{
+border: 1px solid;
+-webkit-border-radius: 5px;
+color: #fff;
+cursor: pointer;
+display: inline-block;
+letter-spacing: 0.5px;
+position: relative;
+text-shadow: 0 1px 2px rgba(0,0,0,.5);
+margin-top: 10px;
+margin-bottom: 10px;
+background: -webkit-linear-gradient(#67ae55, #578843);
+background-color: #69a74e;
+-webkit-box-shadow: inset 0 1px 1px #a4e388;
+border-color: #3b6e22 #3b6e22 #2c5115;
+min-width: 100px;
+padding: 7px 20px;
+text-align: center;
+font-family: 'Verdana','Freight Sans Bold', 'lucida grande',tahoma,verdana,arial,sans-serif !important;
+font-weight: normal !important;
+text-rendering: optimizelegibility;
+font-size: 16px;
+line-height: 100%;
+
+}
+a 
+{
+ text-decoration: none; 
+}
+.h3
+{
+ font-family: 'Verdana','Comic Sans MS';
+ font-size:32px;
+ text-align:center;
+ text-align: left; 
+ color: 333333; 
+}
+
+.nav-bar
+{
+    align-content: center;
+    margin-left: 2.5%;
+    position: relative;
+}
+
+.main{
+width: 80%;
+margin-left: 9%;
+margin-right: auto; 
+text-align: left;
+color:#000;
+font-size:16px;
+font-family: 'Verdana','Comic Sans MS';
+
+}
